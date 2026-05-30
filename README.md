@@ -12,5 +12,5 @@
 
 ### 🔹 Day 3
 * **Topics:** Functions in Python
-* **Problems Solved:** 
+* **Problems Solved:** Contains Duplicate, Maximum SubArray, Single Number 
 
