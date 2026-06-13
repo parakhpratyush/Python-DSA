@@ -23,6 +23,7 @@
 | Day 15 | Decorators | Find Duplicate, Maximum Product Subarray, Product Except Self |
 | Day 16 | Binary Search Basics | Find Minimum Rotated Array, Rotated Array Search |
 | Day 17 | Trees Basics | Level Order, Max Depth, Same Tree |
+| Day 18 | Binary Trees Basics(part-2) | Insert B.S.T, Search B.S.T, Validate B.S.T |
 
 ---
 ## 🗂️ Repository Structure
@@ -118,6 +119,11 @@ Python-DSA/
 │   ├── max_depth.py
 │   ├── same_tree.py
 │   └── tree_basics.py
+├── day018/
+│   ├── bst_basics.py
+│   ├── insert_bst.py
+│   ├── search_bst.py
+│   └── validate_bst.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
