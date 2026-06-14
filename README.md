@@ -25,6 +25,7 @@
 | Day 17 | Trees Basics | Level Order, Max Depth, Same Tree |
 | Day 18 | Binary Trees Basics(part-2) | Insert B.S.T, Search B.S.T, Validate B.S.T |
 | Day 19 | Heap Basics | Kth Largest Element, Median Stream, Top K Frequent Ekement(HEAP) |
+| Day 20 | Graphs Basics |  Clone Graph, Connected Components, Course Schedule, Number Of Islands |
 
 ---
 ## 🗂️ Repository Structure
@@ -130,6 +131,12 @@ Python-DSA/
 │   ├── kth_largest.py
 │   ├── median_stream.py
 │   └── top_k_frequent.py
+├── day020/
+│   ├── graph_basics.py
+│   ├── clone_graph.py
+│   ├── connected_components.py
+│   ├── course_schedule.py
+│   └── number_of_islands.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
