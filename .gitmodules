@@ -1,3 +1,9 @@
 [submodule "project/01_bank_account_system"]
 	path = project/01_bank_account_system
 	url = https://github.com/parakhpratyush/01_bank_account_system.git
+[submodule "project/02_oop_file_handling"]
+	path = project/02_oop_file_handling
+	url = https://github.com/parakhpratyush/02_oop_file_handling.git
+[submodule "project/03_contact_book_cli"]
+	path = project/03_contact_book_cli
+	url = https://github.com/parakhpratyush/03_contact_book_cli.git
