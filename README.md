@@ -26,7 +26,8 @@
 | Day 18 | Binary Trees Basics(part-2) | Insert B.S.T, Search B.S.T, Validate B.S.T |
 | Day 19 | Heap Basics | Kth Largest Element, Median Stream, Top K Frequent Ekement(HEAP) |
 | Day 20 | Graphs Basics |  Clone Graph, Connected Components, Course Schedule, Number Of Islands |
-| Day 21 | Dynamic Programming Foundations | House Robber-1, House Robber-2, Minimum Cost Climbing Stairs |
+| Day 21 | Dynamic Programming Foundations | House Robber-1, House Robber-2, Minimum Cost Climbing Stairs, Longest Common Subsequence |
+| Day 22 | Dynamic Programming Foundations-2, Bounded 0/1 Knapsack | Partition Equal Sum, Unbounded Coin Change |
 
 ---
 ## 🗂️ Repository Structure
@@ -142,7 +143,13 @@ Python-DSA/
 │   ├── dp_foundations.py
 │   ├── house_robber.py
 │   ├── house_robber_2.py
-│   └── min_cost_climbing_stairs.py
+│   ├── min_cost_climbing_stairs.py
+│   └── longest_subseq.py
+├── day022/
+│   ├── coin_change.py
+│   ├── dp_foundations_2.py
+│   ├── knapsack.py
+│   └── partition_equal_subset_sum.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
