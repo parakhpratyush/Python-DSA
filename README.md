@@ -28,6 +28,7 @@
 | Day 20 | Graphs Basics |  Clone Graph, Connected Components, Course Schedule, Number Of Islands |
 | Day 21 | Dynamic Programming Foundations | House Robber-1, House Robber-2, Minimum Cost Climbing Stairs, Longest Common Subsequence |
 | Day 22 | Dynamic Programming Foundations-2, Bounded 0/1 Knapsack | Partition Equal Sum, Unbounded Coin Change |
+| Day 23 | Dynamic Programming Foundations-3 |  Edit Distance, Longest Increasing Subsequence, Word Break |
 
 ---
 ## 🗂️ Repository Structure
@@ -150,6 +151,10 @@ Python-DSA/
 │   ├── dp_foundations_2.py
 │   ├── knapsack.py
 │   └── partition_equal_subset_sum.py
+├── day023/
+│   ├── edit_distance.py
+│   ├── lis.py
+│   └── word_break.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
