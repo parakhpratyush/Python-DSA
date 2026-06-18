@@ -1,5 +1,6 @@
 # 🚀 Python DSA Journey — Parakh Pratyush
 > Continuous algorithmic execution, discrete memory management, and runtime optimization.
+---
 > Documenting the evolution from primitive logic to enterprise-grade system mechanics.
 ---
 ## 📈 Progress Tracker
@@ -29,6 +30,7 @@
 | Day 21 | Dynamic Programming Foundations-1 | House Robber-1, House Robber-2, Minimum Cost Climbing Stairs, Longest Common Subsequence |
 | Day 22 | Dynamic Programming Foundations-2, Bounded 0/1 Knapsack | Partition Equal Sum, Unbounded Coin Change |
 | Day 23 | Dynamic Programming Foundations-3 |  Edit Distance, Longest Increasing Subsequence, Word Break |
+| Day 24 | TRIES (Prefix Trees), BIT MANIPULATION | Implement Trie, Number of 1 Bits,  Reverse Bits, Sum of Two Integers |
 
 ---
 ## 🗂️ Repository Structure
@@ -155,6 +157,12 @@ Python-DSA/
 │   ├── edit_distance.py
 │   ├── lis.py
 │   └── word_break.py
+├── day024/
+│   ├── bit_manipulation.py
+│   ├── hamming_weight.py
+│   ├── reverse_bits.py
+│   ├── sum_without_plus.py
+│   └── trie_basics_or_implement_trie.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
