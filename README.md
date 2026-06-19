@@ -31,6 +31,7 @@
 | Day 22 | Dynamic Programming Foundations-2, Bounded 0/1 Knapsack | Partition Equal Sum, Unbounded Coin Change |
 | Day 23 | Dynamic Programming Foundations-3 |  Edit Distance, Longest Increasing Subsequence, Word Break |
 | Day 24 | TRIES (Prefix Trees), BIT MANIPULATION | Implement Trie, Number of 1 Bits,  Reverse Bits, Sum of Two Integers |
+| Day 25 | Greedy Algorithm's Basics, Activity Selection | Jump Game I & II, Gas Station |
 
 ---
 ## 🗂️ Repository Structure
@@ -163,6 +164,11 @@ Python-DSA/
 │   ├── reverse_bits.py
 │   ├── sum_without_plus.py
 │   └── trie_basics_or_implement_trie.py
+├── day025/
+│   ├── gas_station.py
+│   ├── greedy_basics.py
+│   ├── jump_game.py
+│   └── jump_game_2.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
