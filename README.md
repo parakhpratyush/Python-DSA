@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | Day 1 | Python Basics + If-Else + Arrays | Two Sum, Add Two Numbers |
 | Day 2 | Loops + Arrays | Best Time to Buy Stock, Move Zeroes |
-| Day 3 | Functions + Arrays | Contains Duplicate, Max Subarray, Single Number |
+| Day 3 | Functions + Arrays | Contains Duplicate, Contains Duplicate-2, Max Subarray, Single Number |
 | Day 4 | OOP + Arrays | Missing Number, Max Consecutive Ones, Pascal's Triangle |
 | Day 5 | Inheritance | Majority Element, Remove Duplicates, Merge Sorted Array, Happy Number, Shuffle The Array |
 | Day 6 | Polymorphism | Replace Element With Greater Element On Right Side, Rotate Array, Sort Colors, Power Of, Concatenation |
@@ -50,6 +50,7 @@ Python-DSA/
 │   └── move_zeroes.py
 ├── day003/
 │   ├── contains_duplicate.py
+│   ├── contains_duplicate_2.py
 │   ├── functions.py
 │   ├── maximum_subarray.py
 │   └── single_number.py
