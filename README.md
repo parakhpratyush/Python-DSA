@@ -33,6 +33,7 @@
 | Day 24 | TRIES (Prefix Trees), BIT MANIPULATION | Implement Trie, Number of 1 Bits,  Reverse Bits, Sum of Two Integers |
 | Day 25 | Greedy Algorithm's Basics, Activity Selection | Jump Game I & II, Gas Station |
 | Day 26 | Divide and Conquer | Merge Sort, Different Ways to Add Parentheses, Majority Element II, Construct Quad Tree |
+| Day 27 | String Algorithms — KMP Pattern Matching | StrStr, Repeated Substring, Longest Happy Prefix |
 
 ---
 ## 🗂️ Repository Structure
@@ -175,6 +176,11 @@ Python-DSA/
 │   ├── majority_element_2.py
 │   ├── merge_sort.py
 │   └── quad_tree.py
+├── day027/
+│   ├── kmp.py
+│   ├── longest_happy_prefix.py
+│   ├── repeated_substring.py
+│   └── str_str.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
