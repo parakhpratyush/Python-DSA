@@ -34,6 +34,7 @@
 | Day 25 | Greedy Algorithm's Basics, Activity Selection | Jump Game I & II, Gas Station |
 | Day 26 | Divide and Conquer | Merge Sort, Different Ways to Add Parentheses, Majority Element II, Construct Quad Tree |
 | Day 27 | String Algorithms — KMP Pattern Matching | StrStr, Repeated Substring, Longest Happy Prefix |
+| Day 28 | String Algorithms — Rabin-Karp | Find Anagrams, Minimum Window Substring (Hard), Longest Palindromic Substring |
 
 ---
 ## 🗂️ Repository Structure
@@ -182,6 +183,11 @@ Python-DSA/
 │   ├── longest_happy_prefix.py
 │   ├── repeated_substring.py
 │   └── str_str.py
+├── day028/
+│   ├── find_anagrams.py
+│   ├── longest_palindrome.py
+│   ├── min_window_substring.py
+│   └── rabin_karp.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
