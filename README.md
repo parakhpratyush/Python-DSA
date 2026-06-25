@@ -35,7 +35,8 @@
 | Day 26 | Divide and Conquer | Merge Sort, Different Ways to Add Parentheses, Majority Element II, Construct Quad Tree |
 | Day 27 | String Algorithms — KMP Pattern Matching | StrStr, Repeated Substring, Longest Happy Prefix |
 | Day 28 | String Algorithms — Rabin-Karp | Find Anagrams, Minimum Window Substring (Hard), Longest Palindromic Substring |
-| Day 29: Greedy Intervals — Merge Intervals Concept | Merge Intervals(Leetcode), Insert Interval, Palindromic Substrings Count |
+| Day 29 | Greedy Intervals — Merge Intervals Concept | Merge Intervals(Leetcode), Insert Interval, Palindromic Substrings Count |
+| Day 30 | Mixed Hard Problems | Sliding Window Maximum, Trapping Rain Water, Largest Rectangle in Histogram |
 
 ---
 ## 🗂️ Repository Structure
@@ -193,6 +194,10 @@ Python-DSA/
 │   ├── count_palindromic_substrings.py
 │   ├── insert_interval.py
 │   └── merge_intervals_concept+Question.py
+├── day029/
+│   ├── largest_rectangle.py
+│   ├── sliding_window_max.py
+│   └── trapping_rain_water.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
