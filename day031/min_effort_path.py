@@ -1,6 +1,6 @@
 import heapq
 class Solution():
-    def minimumEffortPath(heights):
+    def minimumEffortPath(self,heights):
         rows, cols = len(heights), len(heights[0])
         effort = [[float('inf')] * cols for _ in range(rows)]
         effort[0][0] = 0
