@@ -37,6 +37,7 @@
 | Day 28 | String Algorithms — Rabin-Karp | Find Anagrams, Minimum Window Substring (Hard), Longest Palindromic Substring |
 | Day 29 | Greedy Intervals — Merge Intervals Concept | Merge Intervals(Leetcode), Insert Interval, Palindromic Substrings Count |
 | Day 30 | Mixed Hard Problems | Sliding Window Maximum, Trapping Rain Water, Largest Rectangle in Histogram |
+| Day 31 | Advanced Graphs — Dijkstra's | Network Delay Time, Cheapest Flights K Stops, Minimum Effort Path |
 
 ---
 ## 🗂️ Repository Structure
@@ -194,10 +195,15 @@ Python-DSA/
 │   ├── count_palindromic_substrings.py
 │   ├── insert_interval.py
 │   └── merge_intervals_concept+Question.py
-├── day029/
+├── day030/
 │   ├── largest_rectangle.py
 │   ├── sliding_window_max.py
 │   └── trapping_rain_water.py
+├── day031/
+│   ├── cheapest_flights.py
+│   ├── dijkstra.py
+│   ├── min_effort_path.py
+│   └──network_delay_time.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
