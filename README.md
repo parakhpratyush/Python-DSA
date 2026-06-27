@@ -38,6 +38,7 @@
 | Day 29 | Greedy Intervals — Merge Intervals Concept | Merge Intervals(Leetcode), Insert Interval, Palindromic Substrings Count |
 | Day 30 | Mixed Hard Problems | Sliding Window Maximum, Trapping Rain Water, Largest Rectangle in Histogram |
 | Day 31 | Advanced Graphs — Dijkstra's | Network Delay Time, Cheapest Flights K Stops, Minimum Effort Path |
+| Day 32 | Math for DSA — GCD/LCM, Modular Exponentiation, Sieve of Eratosthenes | GCD Of Strings, Count Primes, Pow(x,n) |
 
 ---
 ## 🗂️ Repository Structure
@@ -203,7 +204,12 @@ Python-DSA/
 │   ├── cheapest_flights.py
 │   ├── dijkstra.py
 │   ├── min_effort_path.py
-│   └──network_delay_time.py
+│   └── network_delay_time.py
+├── day032/
+│   ├── count_primes.py
+│   ├── gcd_strings.py
+│   ├── math_dsa.py
+│   └── pow_x_n.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
