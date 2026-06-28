@@ -39,6 +39,7 @@
 | Day 30 | Mixed Hard Problems | Sliding Window Maximum, Trapping Rain Water, Largest Rectangle in Histogram |
 | Day 31 | Advanced Graphs — Dijkstra's | Network Delay Time, Cheapest Flights K Stops, Minimum Effort Path |
 | Day 32 | Math for DSA — GCD/LCM, Modular Exponentiation, Sieve of Eratosthenes | GCD Of Strings, Count Primes, Pow(x,n) |
+| Day 33 | Mixed Revision | Container With Most Water, Kth Smallest in BST, Word Search |
 
 ---
 ## 🗂️ Repository Structure
@@ -210,6 +211,10 @@ Python-DSA/
 │   ├── gcd_strings.py
 │   ├── math_dsa.py
 │   └── pow_x_n.py
+├── day033/
+│   ├── container_water.py
+│   ├── kth_smallest_bst.py
+│   └── word_search.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
