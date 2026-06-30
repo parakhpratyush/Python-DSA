@@ -40,6 +40,7 @@
 | Day 31 | Advanced Graphs — Dijkstra's | Network Delay Time, Cheapest Flights K Stops, Minimum Effort Path |
 | Day 32 | Math for DSA — GCD/LCM, Modular Exponentiation, Sieve of Eratosthenes | GCD Of Strings, Count Primes, Pow(x,n) |
 | Day 33 | Mixed Revision | Container With Most Water, Kth Smallest in BST, Word Search |
+| Day 34 | Mixed Revision | Combination Sum, Pacific Atlantic Water Flow, Reconstruct Itinerary (Hard) |
 
 ---
 ## 🗂️ Repository Structure
@@ -215,6 +216,10 @@ Python-DSA/
 │   ├── container_water.py
 │   ├── kth_smallest_bst.py
 │   └── word_search.py
+├── day034/
+│   ├── combination_sum.py
+│   ├── pacific_atlantic.py
+│   └── reconstruct_itinerary.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
