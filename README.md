@@ -41,6 +41,8 @@
 | Day 32 | Math for DSA — GCD/LCM, Modular Exponentiation, Sieve of Eratosthenes | GCD Of Strings, Count Primes, Pow(x,n) |
 | Day 33 | Mixed Revision | Container With Most Water, Kth Smallest in BST, Word Search |
 | Day 34 | Mixed Revision | Combination Sum, Pacific Atlantic Water Flow, Reconstruct Itinerary (Hard) |
+| Day 35 | DSA Phase Final Stretch | Subsets II, Combination Sum II, Word Ladder (Hard) |
+| Day 36 | Advanced Graphs — Topological Sort | Safe States, Alien Dictionary (Hard), Parallel Courses |
 
 ---
 ## 🗂️ Repository Structure
@@ -220,6 +222,15 @@ Python-DSA/
 │   ├── combination_sum.py
 │   ├── pacific_atlantic.py
 │   └── reconstruct_itinerary.py
+├── day035/
+│   ├── combination_sum_2.py
+│   ├── subsets_2.py
+│   └── word_ladder.py
+├── day036/
+│   ├── alien_dictionary.py
+│   ├── parallel_courses.py
+│   ├── safe_states.py
+│   └── topological_sort.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
