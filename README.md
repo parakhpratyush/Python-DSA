@@ -43,6 +43,7 @@
 | Day 34 | Mixed Revision | Combination Sum, Pacific Atlantic Water Flow, Reconstruct Itinerary (Hard) |
 | Day 35 | DSA Phase Final Stretch | Subsets II, Combination Sum II, Word Ladder (Hard) |
 | Day 36 | Advanced Graphs — Topological Sort | Safe States, Alien Dictionary (Hard), Parallel Courses |
+| Day 37 | System Design DSA | LRU Cache, Word Dictionary with Wildcard, Design Twitter |
 
 ---
 ## 🗂️ Repository Structure
@@ -231,6 +232,10 @@ Python-DSA/
 │   ├── parallel_courses.py
 │   ├── safe_states.py
 │   └── topological_sort.py
+├── day035/
+│   ├── design_twitter.py
+│   ├── lru_cache.py
+│   └── word_dictionary.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
