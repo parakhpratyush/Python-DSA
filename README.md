@@ -44,6 +44,7 @@
 | Day 35 | DSA Phase Final Stretch | Subsets II, Combination Sum II, Word Ladder (Hard) |
 | Day 36 | Advanced Graphs — Topological Sort | Safe States, Alien Dictionary (Hard), Parallel Courses |
 | Day 37 | System Design DSA | LRU Cache, Word Dictionary with Wildcard, Design Twitter |
+| Day 38 | Union Find | Number of Provinces, Redundant Connection, Accounts Merge |
 
 ---
 ## 🗂️ Repository Structure
@@ -236,6 +237,11 @@ Python-DSA/
 │   ├── design_twitter.py
 │   ├── lru_cache.py
 │   └── word_dictionary.py
+├── day038/
+│   ├── accounts_merge.py
+│   ├── number_of_provinces.py
+│   ├── redundant_connection.py
+│   └── union_find.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
