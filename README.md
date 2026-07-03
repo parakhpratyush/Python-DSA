@@ -233,7 +233,7 @@ Python-DSA/
 │   ├── parallel_courses.py
 │   ├── safe_states.py
 │   └── topological_sort.py
-├── day035/
+├── day037/
 │   ├── design_twitter.py
 │   ├── lru_cache.py
 │   └── word_dictionary.py
