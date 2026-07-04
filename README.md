@@ -45,6 +45,7 @@
 | Day 36 | Advanced Graphs — Topological Sort | Safe States, Alien Dictionary (Hard), Parallel Courses |
 | Day 37 | System Design DSA | LRU Cache, Word Dictionary with Wildcard, Design Twitter |
 | Day 38 | Union Find | Number of Provinces, Redundant Connection, Accounts Merge |
+| Day 39 | Sliding Window Advanced | Min Size Subarray Sum, Longest K Distinct, Subarrays K Distinct (Hard) |
 
 ---
 ## 🗂️ Repository Structure
@@ -242,6 +243,10 @@ Python-DSA/
 │   ├── number_of_provinces.py
 │   ├── redundant_connection.py
 │   └── union_find.py
+├── day039/
+│   ├── longest_k_distinct.py
+│   ├── min_size_subarray_sum.py
+│   └── subarrays_k_distinct.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
