@@ -46,6 +46,7 @@
 | Day 37 | System Design DSA | LRU Cache, Word Dictionary with Wildcard, Design Twitter |
 | Day 38 | Union Find | Number of Provinces, Redundant Connection, Accounts Merge |
 | Day 39 | Sliding Window Advanced | Min Size Subarray Sum, Longest K Distinct, Subarrays K Distinct (Hard) |
+| Day 40 | Mixed Hard Problems | Binary Tree Max Path Sum, Serialize/Deserialize Tree, Merge K Sorted Lists |
 
 ---
 ## 🗂️ Repository Structure
@@ -247,6 +248,10 @@ Python-DSA/
 │   ├── longest_k_distinct.py
 │   ├── min_size_subarray_sum.py
 │   └── subarrays_k_distinct.py
+├── day040/
+│   ├── binary_tree_max_path.py
+│   ├── merge_k_sorted_lists.py
+│   └── serialize_deserialize.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
