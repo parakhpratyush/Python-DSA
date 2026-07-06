@@ -253,6 +253,10 @@ Python-DSA/
 │   ├── binary_tree_max_path.py
 │   ├── merge_k_sorted_lists.py
 │   └── serialize_deserialize.py
+├── day041/
+│   ├── jump_game_3.py
+│   ├── k_smallest_pairs.py
+│   └── swim_rising_water.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
