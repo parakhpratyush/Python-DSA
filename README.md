@@ -47,6 +47,7 @@
 | Day 38 | Union Find | Number of Provinces, Redundant Connection, Accounts Merge |
 | Day 39 | Sliding Window Advanced | Min Size Subarray Sum, Longest K Distinct, Subarrays K Distinct (Hard) |
 | Day 40 | Mixed Hard Problems | Binary Tree Max Path Sum, Serialize/Deserialize Tree, Merge K Sorted Lists |
+| Day 41 | Hard Problems | Jump Game III, Swim in Rising Water, K Smallest Pairs |
 
 ---
 ## 🗂️ Repository Structure
