@@ -258,6 +258,10 @@ Python-DSA/
 │   ├── jump_game_3.py
 │   ├── k_smallest_pairs.py
 │   └── swim_rising_water.py
+├── day042/
+│   ├── bus_routes.py
+│   ├── max_score_multiplication.py
+│   └── min_cost_destination.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
