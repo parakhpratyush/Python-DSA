@@ -49,7 +49,7 @@
 | Day 40 | Mixed Hard Problems | Binary Tree Max Path Sum, Serialize/Deserialize Tree, Merge K Sorted Lists |
 | Day 41 | Hard Problems | Jump Game III, Swim in Rising Water, K Smallest Pairs |
 | Day 42 | Hard Problems | Bus Routes, Min Cost Destination in Time, Max Score Multiplication |
-| Day 43 | System Design DSA — Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
+| Day 43 | System Design DSA - Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
 
 ---
 ## 🗂️ Repository Structure
