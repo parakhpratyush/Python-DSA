@@ -17,7 +17,7 @@
 | Day 8 | File Handling + Matrix | File Handling, Earliest Finish for Land and Water Rides-2, Rotate Image, Set Matrix Zeroes, Spiral Matrix |
 | Day 9 | String Methods | Longest Substring, Reverse String, Anagram |
 | Day 10 | Hashmap Basics | Subarray Sum Equals K, Top K Frequent Elements, Two Sum (Hashmap) |
-| Day 11 | Stacks Basiscs | Daily Temperatures, Min Stack, Valid Parentheses |
+| Day 11 | Stacks Basics | Daily Temperatures, Min Stack, Valid Parentheses |
 | Day 12 | Queues Basics | Recent Calls, Rotting Oranges, Task Scheduler |
 | Day 13 | Linked List Basics | Linked List Cycle, Merge Sorted Lists, Reverse Linked List |
 | Day 14 | Recursion Basics | Climbing Stairs, Permutations, Subsets |
@@ -25,7 +25,7 @@
 | Day 16 | Binary Search Basics | Find Minimum Rotated Array, Rotated Array Search |
 | Day 17 | Trees Basics | Level Order, Max Depth, Same Tree |
 | Day 18 | Binary Trees Basics(Part-2) | Insert B.S.T, Search B.S.T, Validate B.S.T |
-| Day 19 | Heap Basics | Kth Largest Element, Median Stream, Top K Frequent Ekement(HEAP) |
+| Day 19 | Heap Basics | Kth Largest Element, Median Stream, Top K Frequent Element(HEAP) |
 | Day 20 | Graphs Basics |  Clone Graph, Connected Components, Course Schedule, Number Of Islands |
 | Day 21 | Dynamic Programming Foundations-1 | House Robber-1, House Robber-2, Minimum Cost Climbing Stairs, Longest Common Subsequence |
 | Day 22 | Dynamic Programming Foundations-2, Bounded 0/1 Knapsack | Partition Equal Sum, Unbounded Coin Change |
