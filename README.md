@@ -15,7 +15,7 @@
 | Day 6 | Polymorphism | Replace Element With Greater Element On Right Side, Rotate Array, Sort Colors, Power Of, Concatenation |
 | Day 7 | Abstraction | Earliest Finish for Land and Water Rides, Sqrt(x), Remove Element, Palindrome, Minimum Cost of Buying Candies |
 | Day 8 | File Handling + Matrix | File Handling, Earliest Finish for Land and Water Rides-2, Rotate Image, Set Matrix Zeroes, Spiral Matrix |
-| Day 9 | Anagram | Longest Substring, Reverse String, String Methods |
+| Day 9 | String Methods | Longest Substring, Reverse String, Anagram |
 | Day 10 | Hashmap Basics | Subarray Sum Equals K, Top K Frequent Elements, Two Sum (Hashmap) |
 | Day 11 | Stacks Basiscs | Daily Temperatures, Min Stack, Valid Parentheses |
 | Day 12 | Queues Basics | Recent Calls, Rotting Oranges, Task Scheduler |
