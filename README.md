@@ -49,6 +49,7 @@
 | Day 40 | Mixed Hard Problems | Binary Tree Max Path Sum, Serialize/Deserialize Tree, Merge K Sorted Lists |
 | Day 41 | Hard Problems | Jump Game III, Swim in Rising Water, K Smallest Pairs |
 | Day 42 | Hard Problems | Bus Routes, Min Cost Destination in Time, Max Score Multiplication |
+| Day 43 | System Design DSA — Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
 
 ---
 ## 🗂️ Repository Structure
@@ -262,6 +263,11 @@ Python-DSA/
 │   ├── bus_routes.py
 │   ├── max_score_multiplication.py
 │   └── min_cost_destination.py
+├── day043/
+│   ├── count_smaller.py
+│   ├── my_calendar.py
+│   ├── range_sum_mutable.py
+│   └── segment_tree.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
