@@ -1,6 +1,6 @@
 class MyCalendar(object):
 
-    def _init_(self):
+    def __init__(self):
         # Sorted list of (start, end) events
         self.events = []
 

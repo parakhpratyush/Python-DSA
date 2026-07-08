@@ -1,6 +1,6 @@
 class NumArray(object):
 
-    def _init_(self, nums):
+    def __init__(self, nums):
         self.n = len(nums)
         self.tree = [0] * (2 * self.n)
         for i in range(self.n):
