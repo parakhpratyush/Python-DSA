@@ -50,6 +50,7 @@
 | Day 41 | Hard Problems | Jump Game III, Swim in Rising Water, K Smallest Pairs |
 | Day 42 | Hard Problems | Bus Routes, Min Cost Destination in Time, Max Score Multiplication |
 | Day 43 | System Design DSA - Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
+| Day 44 | DSA Final Revision | Longest Consecutive, Max Width Binary Tree, Min Arrows Balloons |
 
 ---
 ## 🗂️ Repository Structure
@@ -268,6 +269,10 @@ Python-DSA/
 │   ├── my_calendar.py
 │   ├── range_sum_mutable.py
 │   └── segment_tree.py
+├── day044/
+│   ├── longest_consecutive.py
+│   ├── max_width_binary_tree.py
+│   └── min_arrows_balloons.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
