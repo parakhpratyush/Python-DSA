@@ -51,6 +51,7 @@
 | Day 42 | Hard Problems | Bus Routes, Min Cost Destination in Time, Max Score Multiplication |
 | Day 43 | System Design DSA - Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
 | Day 44 | DSA Final Revision | Longest Consecutive, Max Width Binary Tree, Min Arrows Balloons |
+| Day 45 | DSA Final Revision | Regex Matching (Hard), Wildcard Matching (Hard) |
 
 ---
 ## 🗂️ Repository Structure
@@ -273,6 +274,9 @@ Python-DSA/
 │   ├── longest_consecutive.py
 │   ├── max_width_binary_tree.py
 │   └── min_arrows_balloons.py
+├── day045/
+│   ├── regex_matching.py
+│   └── wildcard_matching.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
