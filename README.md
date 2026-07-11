@@ -52,6 +52,7 @@
 | Day 43 | System Design DSA - Segment Tree | Range Sum Mutable, Count Smaller, My Calendar |
 | Day 44 | DSA Final Revision | Longest Consecutive, Max Width Binary Tree, Min Arrows Balloons |
 | Day 45 | DSA Final Revision | Regex Matching (Hard), Wildcard Matching (Hard) |
+| Day 46 | Revision Day (Arrays-Binary Search) | Max Points from Cards |
 
 ---
 ## 🗂️ Repository Structure
@@ -277,6 +278,8 @@ Python-DSA/
 ├── day045/
 │   ├── regex_matching.py
 │   └── wildcard_matching.py
+├── day046/
+│   └── max_points_cards.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
