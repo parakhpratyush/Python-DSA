@@ -53,6 +53,7 @@
 | Day 44 | DSA Final Revision | Longest Consecutive, Max Width Binary Tree, Min Arrows Balloons |
 | Day 45 | DSA Final Revision | Regex Matching (Hard), Wildcard Matching (Hard) |
 | Day 46 | Revision Day (Arrays-Binary Search) | Max Points from Cards |
+| Day 47 | Revision Day (Trees-Graphs) | Spiral Matrix II |
 
 ---
 ## 🗂️ Repository Structure
@@ -280,6 +281,8 @@ Python-DSA/
 │   └── wildcard_matching.py
 ├── day046/
 │   └── max_points_cards.py
+├── day047/
+│   └── spiral_matrix_2.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
