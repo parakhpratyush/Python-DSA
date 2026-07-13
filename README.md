@@ -54,6 +54,7 @@
 | Day 45 | DSA Final Revision | Regex Matching (Hard), Wildcard Matching (Hard) |
 | Day 46 | Revision Day (Arrays-Binary Search) | Max Points from Cards |
 | Day 47 | Revision Day (Trees-Graphs) | Spiral Matrix II |
+| Day 48 | Revision (DP-Greedy) | Decode Ways |
 
 ---
 ## 🗂️ Repository Structure
@@ -283,6 +284,8 @@ Python-DSA/
 │   └── max_points_cards.py
 ├── day047/
 │   └── spiral_matrix_2.py
+├── day048/
+│   └── decode_ways.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
