@@ -55,6 +55,7 @@
 | Day 46 | Revision Day (Arrays-Binary Search) | Max Points from Cards |
 | Day 47 | Revision Day (Trees-Graphs) | Spiral Matrix II |
 | Day 48 | Revision (DP-Greedy) | Decode Ways |
+| Day 49 | Revision (Dijkstra-Segment Tree) | Unique Paths |
 
 ---
 ## 🗂️ Repository Structure
@@ -286,6 +287,8 @@ Python-DSA/
 │   └── spiral_matrix_2.py
 ├── day048/
 │   └── decode_ways.py
+├── day049/
+│   └── unique_paths.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
