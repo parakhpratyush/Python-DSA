@@ -56,6 +56,7 @@
 | Day 47 | Revision Day (Trees-Graphs) | Spiral Matrix II |
 | Day 48 | Revision (DP-Greedy) | Decode Ways |
 | Day 49 | Revision (Dijkstra-Segment Tree) | Unique Paths |
+| Day 50 | Speed Round Revision | Partition Labels |
 
 ---
 ## 🗂️ Repository Structure
@@ -289,6 +290,8 @@ Python-DSA/
 │   └── decode_ways.py
 ├── day049/
 │   └── unique_paths.py
+├── day050/
+│   └── partition_labels.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
