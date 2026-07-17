@@ -57,7 +57,9 @@
 | Day 48 | Revision (DP-Greedy) | Decode Ways |
 | Day 49 | Revision (Dijkstra-Segment Tree) | Unique Paths |
 | Day 50 | Speed Round Revision | Partition Labels | day
-| day 51 | DSA Continuation | Min Path Sum |
+| Day 51 | DSA Continuation | Min Path Sum |
+| Day 52 | DSA Continuation | Triangle DP |
+
 ---
 ## 🗂️ Repository Structure
 ```text
@@ -294,6 +296,8 @@ Python-DSA/
 │   └── partition_labels.py
 ├── day051/
 │   └── min_path_sum.py
+├── day052/
+│   └── triangle.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
