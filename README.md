@@ -59,6 +59,7 @@
 | Day 50 | Speed Round Revision | Partition Labels | day
 | Day 51 | DSA Continuation | Min Path Sum |
 | Day 52 | DSA Continuation | Triangle DP |
+| Day 55 | DSA Continuation | Coin Change 2 |
 
 ---
 ## 🗂️ Repository Structure
@@ -298,6 +299,8 @@ Python-DSA/
 │   └── min_path_sum.py
 ├── day052/
 │   └── triangle.py
+├── day053/
+│   └── coin_change_2.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
