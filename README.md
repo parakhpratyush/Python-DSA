@@ -59,7 +59,7 @@
 | Day 50 | Speed Round Revision | Partition Labels | day
 | Day 51 | DSA Continuation | Min Path Sum |
 | Day 52 | DSA Continuation | Triangle DP |
-| Day 55 | DSA Continuation | Coin Change 2 |
+| Day 53 | DSA Continuation | Coin Change 2 |
 
 ---
 ## 🗂️ Repository Structure
