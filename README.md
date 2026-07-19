@@ -60,6 +60,7 @@
 | Day 51 | DSA Continuation | Min Path Sum |
 | Day 52 | DSA Continuation | Triangle DP |
 | Day 53 | DSA Continuation | Coin Change 2 |
+| Day 54 | DSA Continuation | Koko Eating Bananas |
 
 ---
 ## 🗂️ Repository Structure
@@ -301,6 +302,8 @@ Python-DSA/
 │   └── triangle.py
 ├── day053/
 │   └── coin_change_2.py
+├── day054/
+│   └── koko_eating_banana.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
