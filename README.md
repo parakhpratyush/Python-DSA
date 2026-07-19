@@ -60,7 +60,7 @@
 | Day 51 | DSA Continuation | Min Path Sum |
 | Day 52 | DSA Continuation | Triangle DP |
 | Day 53 | DSA Continuation | Coin Change 2 |
-| Day 54 | DSA Continuation | Koko Eating Bananas |
+| Day 54 | DSA Continuation | Koko Eating Banana |
 
 ---
 ## 🗂️ Repository Structure
