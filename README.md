@@ -61,6 +61,7 @@
 | Day 52 | DSA Continuation | Triangle DP |
 | Day 53 | DSA Continuation | Coin Change 2 |
 | Day 54 | DSA Continuation | Koko Eating Banana |
+| Day 55 | Binary Search on Answer | Capacity to Ship Packages |
 
 ---
 ## 🗂️ Repository Structure
@@ -304,6 +305,8 @@ Python-DSA/
 │   └── coin_change_2.py
 ├── day054/
 │   └── koko_eating_banana.py
+├── day055/
+│   └── capacity_ship_packages.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
