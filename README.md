@@ -62,6 +62,7 @@
 | Day 53 | DSA Continuation | Coin Change 2 |
 | Day 54 | DSA Continuation | Koko Eating Banana |
 | Day 55 | Binary Search on Answer | Capacity to Ship Packages |
+| Day 56 | Binary Search | Successful Pairs of Spells and Potions |
 
 ---
 ## 🗂️ Repository Structure
@@ -307,6 +308,8 @@ Python-DSA/
 │   └── koko_eating_banana.py
 ├── day055/
 │   └── capacity_ship_packages.py
+├── day056/
+│   └── successful_pairs.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
