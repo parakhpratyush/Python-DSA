@@ -63,6 +63,7 @@
 | Day 54 | DSA Continuation | Koko Eating Banana |
 | Day 55 | Binary Search on Answer | Capacity to Ship Packages |
 | Day 56 | Binary Search | Successful Pairs of Spells and Potions |
+| Day 57 | Binary Search | Search a 2D Matrix |
 
 ---
 ## 🗂️ Repository Structure
@@ -310,6 +311,8 @@ Python-DSA/
 │   └── capacity_ship_packages.py
 ├── day056/
 │   └── successful_pairs.py
+├── day057/
+│   └── search_2d_matrix.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
