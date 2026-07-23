@@ -64,6 +64,7 @@
 | Day 55 | Binary Search on Answer | Capacity to Ship Packages |
 | Day 56 | Binary Search | Successful Pairs of Spells and Potions |
 | Day 57 | Binary Search | Search a 2D Matrix |
+| Day 58 | Binary Search | Find Peak Element |
 
 ---
 ## 🗂️ Repository Structure
@@ -313,6 +314,8 @@ Python-DSA/
 │   └── successful_pairs.py
 ├── day057/
 │   └── search_2d_matrix.py
+├── day058/
+│   └── find_peak_element.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
