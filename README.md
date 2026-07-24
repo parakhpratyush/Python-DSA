@@ -65,6 +65,7 @@
 | Day 56 | Binary Search | Successful Pairs of Spells and Potions |
 | Day 57 | Binary Search | Search a 2D Matrix |
 | Day 58 | Binary Search | Find Peak Element |
+| Day 59 | Binary Search | Time Based Key-Value Store |
 
 ---
 ## 🗂️ Repository Structure
@@ -316,6 +317,8 @@ Python-DSA/
 │   └── search_2d_matrix.py
 ├── day058/
 │   └── find_peak_element.py
+├── day059/
+│   └── time_based_key_value.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
