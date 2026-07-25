@@ -66,6 +66,7 @@
 | Day 57 | Binary Search | Search a 2D Matrix |
 | Day 58 | Binary Search | Find Peak Element |
 | Day 59 | Binary Search | Time Based Key-Value Store |
+| Day 60 | Binary Search Hard | Median of Two Sorted Arrays |
 
 ---
 ## 🗂️ Repository Structure
@@ -319,6 +320,8 @@ Python-DSA/
 │   └── find_peak_element.py
 ├── day059/
 │   └── time_based_key_value.py
+├── day060/
+│   └── median_two_sorted_arrays.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
