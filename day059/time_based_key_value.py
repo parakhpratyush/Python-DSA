@@ -43,3 +43,14 @@ class TimeMap(object):
         
         # Otherwise, the correct element is at index idx - 1
         return values[idx - 1][1]
+
+# ----Testing----
+solver = TimeMap()
+
+# Simulating the LeetCode operations step-by-step
+print(solver.set("foo", "bar", 1))       # Output: None
+print(solver.get("foo", 1))              # Output: "bar"
+print(solver.get("foo", 3))              # Output: "bar" (1 is the largest timestamp <= 3)
+print(solver.set("foo", "bar2", 4))      # Output: None
+print(solver.get("foo", 4))              # Output: "bar2"
+print(solver.get("foo", 5))              # Output: "bar2" (4 is the largest timestamp <= 5)
