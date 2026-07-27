@@ -68,6 +68,7 @@
 | Day 59 | Binary Search | Time Based Key-Value Store |
 | Day 60 | Binary Search Hard | Median of Two Sorted Arrays |
 | Day 61 | Binary Search | Single Element in Sorted Array |
+| Day 62 | Binary Search on Answer | Minimum Days to Make Bouquets |
 
 ---
 ## 🗂️ Repository Structure
@@ -325,6 +326,8 @@ Python-DSA/
 │   └── median_two_sorted_arrays.py
 ├── day061/
 │   └── single_element_sorted.py
+├── day062/
+│   └── min_days_bouquets.py
 └── README.md
 ```
 ⚡ *No Days Off. Algorithmic Execution, Runtime Optimization, and Deployment tracked automatically.*
